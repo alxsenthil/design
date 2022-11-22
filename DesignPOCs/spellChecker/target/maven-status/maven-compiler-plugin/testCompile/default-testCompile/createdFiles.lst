@@ -1,0 +1,4 @@
+com\poc\spellChecker\MockBloomFilterService.class
+com\poc\spellChecker\AdminTest.class
+com\poc\spellChecker\GuestTest.class
+com\poc\spellChecker\HashingTest.class
